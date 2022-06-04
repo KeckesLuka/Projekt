@@ -1,0 +1,72 @@
+<Katalog>
+    <Knjiga>
+        <Naslov>Sto godina samoće</Naslov>
+        <Pisac>Gabriel Garcia Marquez</Pisac>
+        <Drzava>Kolumbija</Drzava>
+        <Zarn>Roman</Zarn>
+        <Godina>1967</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Ana Karenjina</Naslov>
+        <Pisac>Lav Nikolajevič Tolstoj</Pisac>
+        <Drzava>Rusija</Drzava>
+        <Zarn>Kombinacija</Zarn>
+        <Godina>2021</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Mali princ</Naslov>
+        <Pisac>Antoine de Saint Exupery</Pisac>
+        <Drzava>Francuska</Drzava>
+        <Zarn>Fantastika</Zarn>
+        <Godina>1943</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Stranac</Naslov>
+        <Pisac>Albert Camus</Pisac>
+        <Drzava>Francuska</Drzava>
+        <Zarn>roman</Zarn>
+        <Godina>1942</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Zločin i kazna</Naslov>
+        <Pisac>Fjodor Mihajlovič Dostojevski</Pisac>
+        <Drzava>Rusija</Drzava>
+        <Zarn>roman</Zarn>
+        <Godina>1866</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Istočno od raja</Naslov>
+        <Pisac>John Steinbeck</Pisac>
+        <Drzava>USA</Drzava>
+        <Zarn>Drama</Zarn>
+        <Godina>1955</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Životinjska farma</Naslov>
+        <Pisac>George Orwell</Pisac>
+        <Drzava>Velika Britanija</Drzava>
+        <Zarn>Bajka</Zarn>
+        <Godina>1945</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Ubiti pticu rugalicu</Naslov>
+        <Pisac>Harper Lee</Pisac>
+        <Drzava>USA</Drzava>
+        <Zarn>roman</Zarn>
+        <Godina>1960</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Novela o šahu</Naslov>
+        <Pisac>Stefan Zweig</Pisac>
+        <Drzava>Austrija</Drzava>
+        <Zarn>biografija</Zarn>
+        <Godina>2022</Godina>
+    </Knjiga>
+    <Knjiga>
+        <Naslov>Posljednje predavanje</Naslov>
+        <Pisac>Randy Pausch</Pisac>
+        <Drzava>USA</Drzava>
+        <Zarn>biografija</Zarn>
+        <Godina>2008</Godina>
+    </Knjiga>
+</Katalog>
